@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/edi3on-py-ue5-mcp-server-badge.png)](https://mseep.ai/app/edi3on-py-ue5-mcp-server)
+
 # py-ue5-mcp-server
 # Unreal Engine 5 MCP Server for Claude
 
